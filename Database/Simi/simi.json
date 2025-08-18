@@ -1,7 +1,0 @@
-const responses = {
-    "halo": "Hai juga!",
-    "apa kabar": "Aku baik, kamu bagaimana?",
-    "siapa namamu": "Aku adalah simih rangel.",
-    "terima kasih": "Sama-sama!",
-    "kamu ngapain": "Aku sedang ngobrol denganmu!",
-  };
